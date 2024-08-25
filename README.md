@@ -1,5 +1,5 @@
 
-This page done with Html5, Css3, Javascript(Framework : React)
+This page done with Html5, Css3, Javascript(Framework : React).
 
 Live : https://ardicmehmet.github.io/todo-with-React/
 
